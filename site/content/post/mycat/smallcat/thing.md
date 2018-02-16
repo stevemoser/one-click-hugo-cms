@@ -7,3 +7,4 @@ description: >-
 ---
 
 Cool beansssssss
+[normal](../../making-sense.md)
